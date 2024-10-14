@@ -6,6 +6,10 @@ Primera entrada del cuaderno de Bitácora.
 
 ## Entrada 2: Trabajo en Progreso
 
-En esta entrada, añadimos una imagen para ilustrar los avances.
+Segunda entrada del cuaderno de Bitácora. Esta vez con imagenes.
 
 ![Imagen descriptiva](C:\Users\mcasadop\Pictures\tensors.png)
+
+## Entrada 3: Conclusiones
+
+Tercera entrada de cuaderno de Bitácora.
