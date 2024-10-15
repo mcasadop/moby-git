@@ -8,8 +8,12 @@ Primera entrada del cuaderno de Bitácora.
 
 Segunda entrada del cuaderno de Bitácora. Esta vez con imagenes.
 
-![Imagen descriptiva](C:\Users\mcasadop\Pictures\tensors.png)
+![Imagen descriptiva](imagenes/tensors.png)
 
 ## Entrada 3: Conclusiones
 
 Tercera entrada de cuaderno de Bitácora.
+
+## Cambios a mergear
+
+Hey!
